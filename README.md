@@ -293,11 +293,7 @@ Swagger UI – available at /swagger-ui.html.
 
 Pagination – can be added to list endpoints (e.g., /api/topics?page=0&size=10).
 
-Docker – a Dockerfile and docker-compose.yml can be provided.
 
-Troubleshooting
-PostgreSQL syntax error with pagination:
-If you see ERROR: syntax error at or near "$2", use dialect org.hibernate.dialect.PostgreSQL95Dialect in application.properties.
 
 File upload limit:
 Max file size is 10MB. Adjust in application.properties if needed.

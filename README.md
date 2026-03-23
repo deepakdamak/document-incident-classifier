@@ -31,7 +31,7 @@ A Spring Boot application that accepts a list of incident topics, processes a do
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/document-incident-classifier.git
+git clone https://github.com/deepakdamak/document-incident-classifier.git
 cd document-incident-classifier
 
 2. Create Database

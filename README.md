@@ -302,6 +302,5 @@ If you see ERROR: syntax error at or near "$2", use dialect org.hibernate.dialec
 File upload limit:
 Max file size is 10MB. Adjust in application.properties if needed.
 
-License
-This project is for educational purposes. Feel free to modify and use as needed.
+
 
